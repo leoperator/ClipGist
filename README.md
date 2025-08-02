@@ -2,6 +2,10 @@
 
 **ClipGist** is a Streamlit-powered app that summarizes YouTube videos using AI. Just paste a YouTube link, and get a structured summary of the video, key insights, and even a chat interface to dive deeper into the content.
 
+<img width="1920" height="331" alt="image" src="https://github.com/user-attachments/assets/c0195ce0-d0ae-4b9a-81f5-a554d4b524db" />
+<img width="1920" height="785" alt="image" src="https://github.com/user-attachments/assets/0d0b8ab0-8e74-42f1-8882-1f087fb87568" />
+<img width="1920" height="714" alt="image" src="https://github.com/user-attachments/assets/69f72b3e-b31c-48ea-bb24-37cdf78885f3" />
+
 ---
 
 ## 🚀 Features

@@ -5,4 +5,4 @@ newspaper3k==0.2.8
 youtube_transcript_api==1.2.1
 yt_dlp==2025.7.21
 google-generativeai>=0.4.1
-protobuf==6.31.1
+protobuf>=3.20,<4.0.0

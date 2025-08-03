@@ -14,7 +14,7 @@ st.set_page_config(
 # Header
 st.markdown("""
 <div style="text-align:center; padding-bottom: 1rem;">
-    <h1 style='color:#FF4B4B; font-size: 3rem;'>🎬 ClipGist: Multimedia Insight Generator</h1>
+    <h1 style='color:#FF4B4B; font-size: 3rem;'>🎬 ClipGist: Research Insight Generator</h1>
     <p style="font-size:1.1rem; color:lightgray;">
         Paste a YouTube link, an article URL, or upload a document (PDF/TXT) to get a smart summary using Gemini.<br>
         You can then ask questions based on the content.

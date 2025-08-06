@@ -36,7 +36,6 @@ def extract_text_from_pdf(pdf_file) -> str:
     except Exception as e:
         return f"Error reading PDF: {str(e)}"
 
-
 def extract_video_id(url):
     patterns = [
         r'(?:v=|\/)([0-9A-Za-z_-]{11}).*',

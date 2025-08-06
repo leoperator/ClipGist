@@ -1,6 +1,6 @@
 streamlit==1.47.1
 python-dotenv==1.1.1
-fitz==0.0.1.dev2
+PyMuPDF==1.21.1
 newspaper3k==0.2.8
 youtube_transcript_api==1.2.1
 yt_dlp==2025.7.21

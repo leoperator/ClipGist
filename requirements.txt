@@ -2,6 +2,7 @@ streamlit==1.47.1
 python-dotenv==1.1.1
 PyMuPDF==1.21.1
 newspaper3k==0.2.8
+lxml[clean_html]==4.9.3
 youtube_transcript_api==1.2.1
 yt_dlp==2025.7.21
 google-generativeai>=0.4.1
